@@ -1,0 +1,35 @@
+#container{
+    width: 300px;
+    height: 200px;
+    background-color: lightblue;
+    margin:0 auto;
+    text-align: center;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+#btn1{
+    width:100px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: lightblue;
+    border: 2px white solid;
+    color: white;
+  align-items: center;
+ 
+
+
+}
+#btn2{
+    width:100px;
+    height: 30px;
+    color: white;
+    border-radius: 5px;
+    background-color: lightblue;
+    border: 2px white solid;
+   align-items: center;
+ 
+
+
+}
